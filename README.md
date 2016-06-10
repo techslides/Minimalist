@@ -1,4 +1,4 @@
 # Minimalist
 Fast, responsive, and free WordPress Theme
 
-Preview: http://techslides.com
+Read more here: http://techslides.com/minimalist-wordpress-theme
